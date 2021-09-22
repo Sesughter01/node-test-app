@@ -1,0 +1,22 @@
+{
+  "name": "tractorly2",
+  "version": "1.0.0",
+  "description": "farm equipment locator",
+  "main": "app-async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sesughter01/tractorly.app.git"
+  },
+  "author": "Charles-Clement Avul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sesughter01/tractorly.app/issues"
+  },
+  "homepage": "https://github.com/Sesughter01/tractorly.app#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
